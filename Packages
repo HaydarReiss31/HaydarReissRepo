@@ -1,0 +1,28 @@
+Package: com.haydareiss.checkmate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: HaydarReiss
+Filename: debs/Checkra1nRespringThemeRootless.deb
+Size: 11328
+MD5sum: c2046a0d9252bef40df93f1b29d5e0d9
+SHA1: e449ebeede0cb7272956a90ac40fe73730b3036f
+SHA256: d3052c006738b3e6684065ef9058125f7e4c194b3514ef07ad2137b615502bf3
+Section: Themes
+Description: Checkra1n respring
+Author: HaydarReiss31
+Name: Checkra1n Respring Theme
+
+Package: com.haydareiss.checkmate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: HaydarReiss
+Filename: debs/Checkra1nRespringThemeRootful.deb
+Size: 11312
+MD5sum: aec24c2896e467f21ddebb62f8c10dcd
+SHA1: 1d2bf74e53238d237713e08de6c3785996476c00
+SHA256: 3cfcfe36124f053a5a1b891c69f00fed8ef0948f03d35cb8cd13bb76d00a06f3
+Section: Themes
+Description: Rootful uyumlu Checkra1n respring animasyonu.
+Author: HaydarReiss31
+Name: Checkra1n Respring Theme
+
