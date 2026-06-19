@@ -9,7 +9,6 @@
     <script>
         const urlParams = new URLSearchParams(window.location.search);
         const manager = urlParams.get('open');
-        // Sonuna mutlaka eğik çizgi (/) ekledik, paket yöneticileri bunu istiyor
         const repoURL = "https://haydarreiss31.github.io/HaydarReissRepo/"; 
 
         if (manager) {
@@ -37,7 +36,17 @@
             }
 
             if (scheme) {
-                window.location.href = scheme;
+                // Brave tarayıcısının hata vermesini engellemek için görünmez bir link oluşturup tetikliyoruz
+                const shadowLink = document.createElement('a');
+                shadowLink.href = scheme;
+                shadowLink.rel = 'noopener noreferrer';
+                document.body.appendChild(shadowLink);
+                shadowLink.click();
+                
+                // Güvenlik önlemi olarak 1 saniye sonra sekmeyi temiz bir sayfada bırakıyoruz
+                setTimeout(() => {
+                    document.body.removeChild(shadowLink);
+                }, 1000);
             }
         }
     </script>
