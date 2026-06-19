@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HaydarReissRepo Redirector</title>
+</head>
+<body>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const manager = urlParams.get('open');
+        // Sonuna mutlaka eğik çizgi (/) ekledik, paket yöneticileri bunu istiyor
+        const repoURL = "https://haydarreiss31.github.io/HaydarReissRepo/"; 
+
+        if (manager) {
+            let scheme = "";
+            
+            switch (manager) {
+                case 'sileo': 
+                    scheme = `sileo://source/${repoURL}`; 
+                    break;
+                case 'zebra': 
+                    scheme = `zebra://sources/add/${repoURL}`; 
+                    break;
+                case 'cydia': 
+                    scheme = `cydia://url/https://cydia.saurik.com/api/share #?source=${repoURL}`; 
+                    break;
+                case 'installer': 
+                    scheme = `installer://add/source=${repoURL}`; 
+                    break;
+                case 'saily': 
+                    scheme = `saily://add-source?url=${repoURL}`; 
+                    break;
+                case 'purepkg': 
+                    scheme = `purepkg://add?url=${repoURL}`; 
+                    break;
+            }
+
+            if (scheme) {
+                window.location.href = scheme;
+            }
+        }
+    </script>
+</body>
+</html>
