@@ -14,4 +14,22 @@
 
 <p align="center">
   <a href="installer://add/https://haydarreiss31.github.io/HaydarReissRepo">
-    <img src="
+    <img src="https://img.shields.io/badge/Add_to_Installer-8E44AD?style=for-the-badge&logo=appstore&logoColor=white" alt="Add to Installer">
+  </a>
+
+  <a href="saily://add/https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_Saily-F39C12?style=for-the-badge&logo=rocket&logoColor=white" alt="Add to Saily">
+  </a>
+
+  <a href="purepkg://add/https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_PurePkg-1ABC9C?style=for-the-badge&logo=linux&logoColor=white" alt="Add to PurePkg">
+  </a>
+</p>
+
+---
+
+### 🌐 Add Repo Manually
+If the buttons above do not work, you can copy the link below and add it manually to your package manager:
+
+```text
+[https://haydarreiss31.github.io/HaydarReissRepo](https://haydarreiss31.github.io/HaydarReissRepo)
