@@ -29,5 +29,7 @@
 ---
 
 ### 🌐 Add Repo Manually
-If the buttons above do not work, you can copy the link below and add it manually to
+If the buttons above do not work, you can copy the link below and add it manually to your package manager:
 
+```text
+https://haydarreiss31.github.io/HaydarReissRepo
