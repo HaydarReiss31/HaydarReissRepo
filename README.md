@@ -4,7 +4,7 @@
   </a>
 
   <a href="zebra://sources/add/https://haydarreiss31.github.io/HaydarReissRepo">
-    <img src="https://img.shields.io/badge/Add_to_Zebra-34A853?style=for-the-badge&logo=package&logoColor=white" alt="Add to Zebra">
+    <img src="https://img.shields.io/badge/Add_to_Zebra-34A853?style=for-the-badge&logo=zebra&logoColor=white" alt="Add to Zebra">
   </a>
 
   <a href="cydia://url/https://cydia.saurik.com/api/share #?source=https://haydarreiss31.github.io/HaydarReissRepo">
