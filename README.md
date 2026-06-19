@@ -1,26 +1,36 @@
 <p align="center">
-  <a href="sileo://source/https://haydarreiss31.github.io/HaydarReissRepo" style="display: block; padding: 12px; margin: 8px 0; background-color: #4A90E2; color: white; text-align: center; text-decoration: none; font-weight: bold; border-radius: 6px; font-family: -apple-system, sans-serif;">
-    ADD REPO TO SILEO
+  <a href="https://cydia.ichitaso.com/u/?url=https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_Sileo-4A90E2?style=for-the-badge" alt="Add to Sileo">
   </a>
+</p>
 
-  <a href="zebra://sources/add/https://haydarreiss31.github.io/HaydarReissRepo" style="display: block; padding: 12px; margin: 8px 0; background-color: #34A853; color: white; text-align: center; text-decoration: none; font-weight: bold; border-radius: 6px; font-family: -apple-system, sans-serif;">
-    ADD REPO TO ZEBRA
+<p align="center">
+  <a href="https://cydia.ichitaso.com/u/?url=https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_Zebra-34A853?style=for-the-badge" alt="Add to Zebra">
   </a>
+</p>
 
-  <a href="cydia://url/https://cydia.saurik.com/api/share #?source=https://haydarreiss31.github.io/HaydarReissRepo" style="display: block; padding: 12px; margin: 8px 0; background-color: #E06666; color: white; text-align: center; text-decoration: none; font-weight: bold; border-radius: 6px; font-family: -apple-system, sans-serif;">
-    ADD REPO TO CYDIA
+<p align="center">
+  <a href="https://cydia.ichitaso.com/u/?url=https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_Cydia-E06666?style=for-the-badge" alt="Add to Cydia">
   </a>
+</p>
 
-  <a href="installer://add/https://haydarreiss31.github.io/HaydarReissRepo" style="display: block; padding: 12px; margin: 8px 0; background-color: #8E44AD; color: white; text-align: center; text-decoration: none; font-weight: bold; border-radius: 6px; font-family: -apple-system, sans-serif;">
-    ADD REPO TO INSTALLER
+<p align="center">
+  <a href="https://cydia.ichitaso.com/u/?url=https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_Installer-8E44AD?style=for-the-badge" alt="Add to Installer">
   </a>
+</p>
 
-  <a href="saily://add/https://haydarreiss31.github.io/HaydarReissRepo" style="display: block; padding: 12px; margin: 8px 0; background-color: #F39C12; color: white; text-align: center; text-decoration: none; font-weight: bold; border-radius: 6px; font-family: -apple-system, sans-serif;">
-    ADD REPO TO SAILY
+<p align="center">
+  <a href="https://cydia.ichitaso.com/u/?url=https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_Saily-F39C12?style=for-the-badge" alt="Add to Saily">
   </a>
+</p>
 
-  <a href="purepkg://add/https://haydarreiss31.github.io/HaydarReissRepo" style="display: block; padding: 12px; margin: 8px 0; background-color: #1ABC9C; color: white; text-align: center; text-decoration: none; font-weight: bold; border-radius: 6px; font-family: -apple-system, sans-serif;">
-    ADD REPO TO PUREPKG
+<p align="center">
+  <a href="https://cydia.ichitaso.com/u/?url=https://haydarreiss31.github.io/HaydarReissRepo">
+    <img src="https://img.shields.io/badge/Add_to_PurePkg-1ABC9C?style=for-the-badge" alt="Add to PurePkg">
   </a>
 </p>
 
