@@ -57,7 +57,6 @@ Launch your preferred package manager (**Sileo, Zebra, Cydia, Installer**, etc.)
 2. Search for **CyberKit MiniBrowser**.
 3. Tap **Install** or **Get** to queue the package.
 4. Confirm the installation and wait for it to finish.
-5. Perform a **Respring** to apply changes and refresh your SpringBoard.
 
 ### 3. Usage Guidelines
 * Tap the **CyberKit** icon directly from your home screen.
