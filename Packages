@@ -28,3 +28,111 @@ Icon: https://haydarreiss31.github.io/HaydarReissRepo/TweakIcon.png
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
 
+Package: com.haydareiss.checkmate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: HaydarReiss
+Filename: ./debs/Checkra1nRespringThemeRootless.deb
+Size: 11328
+MD5sum: c2046a0d9252bef40df93f1b29d5e0d9
+SHA1: e449ebeede0cb7272956a90ac40fe73730b3036f
+SHA256: d3052c006738b3e6684065ef9058125f7e4c194b3514ef07ad2137b615502bf3
+Section: Themes
+Description: Checkra1n respring
+Author: HaydarReiss31
+Name: Checkra1n Respring Theme
+
+Package: com.haydareiss.checkmate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: HaydarReiss
+Filename: ./debs/Checkra1nRespringThemeRootful.deb
+Size: 11312
+MD5sum: aec24c2896e467f21ddebb62f8c10dcd
+SHA1: 1d2bf74e53238d237713e08de6c3785996476c00
+SHA256: 3cfcfe36124f053a5a1b891c69f00fed8ef0948f03d35cb8cd13bb76d00a06f3
+Section: Themes
+Description: Rootful uyumlu Checkra1n respring animasyonu.
+Author: HaydarReiss31
+Name: Checkra1n Respring Theme
+
+Package: com.matthewbenedict.mobileminibrowser+12
+Version: 0.0.9-alpha
+Architecture: iphoneos-arm
+Maintainer: UInt2048
+Depends: firmware (>=12.0), firmware (<<13.0)
+Conflicts: com.matthewbenedict.mobileminibrowser
+Replaces: com.matthewbenedict.mobileminibrowser
+Provides: com.matthewbenedict.mobileminibrowser (= 0.0.9-alpha)
+Filename: ./debs/com.matthewbenedict.mobileminibrowser+12_0.0.9-alpha_iphoneos-arm.deb
+Size: 94536380
+MD5sum: d396428cbe2c40c96c5b69c096404909
+SHA1: 7ca9b88fc3e10c0481879a9eaaab1de7d28f1dc3
+SHA256: 64c091387deabbf990b1ce1b55eb46d8f38ad80070b516a4e96041afac1e85a7
+Section: Tweaks
+Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
+Depiction: https://uint2048.github.io/depictions/mobileminibrowser-rootful/?p=12
+Icon: https://uint2048.github.io/CydiaIcon.png
+Name: CyberKit MobileMiniBrowser (iOS 12)
+Sileodepiction: https://uint2048.github.io/depictions/mobileminibrowser-rootful/12/sileo.json
+
+Package: com.matthewbenedict.mobileminibrowser+13
+Version: 0.0.9-alpha
+Architecture: iphoneos-arm
+Maintainer: UInt2048
+Depends: firmware (>=13.0), firmware (<<14.0)
+Conflicts: com.matthewbenedict.mobileminibrowser
+Replaces: com.matthewbenedict.mobileminibrowser
+Provides: com.matthewbenedict.mobileminibrowser (= 0.0.9-alpha)
+Filename: ./debs/com.matthewbenedict.mobileminibrowser+13_0.0.9-alpha_iphoneos-arm.deb
+Size: 95273568
+MD5sum: fecc9a9d078b90067ce56c4ac683450c
+SHA1: fd5c8bc47b61f47d262a548c5ce2c0a04f4ac7b9
+SHA256: e5f8ebc5dafbfe096e602fe4c563fea2a6564a1348cdc0900a761c71b9a4a107
+Section: Tweaks
+Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
+Depiction: https://uint2048.github.io/depictions/mobileminibrowser-rootful/?p=13
+Icon: https://uint2048.github.io/CydiaIcon.png
+Name: CyberKit MobileMiniBrowser (iOS 13)
+Sileodepiction: https://uint2048.github.io/depictions/mobileminibrowser-rootful/13/sileo.json
+
+Package: com.matthewbenedict.mobileminibrowser+15
+Version: 0.0.9-alpha
+Architecture: iphoneos-arm
+Maintainer: UInt2048
+Depends: firmware (>=15.0), firmware (<<16.0)
+Conflicts: com.matthewbenedict.mobileminibrowser
+Replaces: com.matthewbenedict.mobileminibrowser
+Provides: com.matthewbenedict.mobileminibrowser (= 0.0.9-alpha)
+Filename: ./debs/com.matthewbenedict.mobileminibrowser+15_0.0.9-alpha_iphoneos-arm.deb
+Size: 95678760
+MD5sum: 5416c02035bb9ecea10be40a16ec264e
+SHA1: 770236551c064365e86d974d8e25b4d672d48ffa
+SHA256: d0e0e480fe664b2ba42d773f14d710d1c3f5aac2f2de23b8f64a9be42d12e2df
+Section: Tweaks
+Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
+Depiction: https://uint2048.github.io/depictions/mobileminibrowser-rootful/?p=15
+Icon: https://uint2048.github.io/CydiaIcon.png
+Name: CyberKit MobileMiniBrowser (iOS 15 Rootful)
+Sileodepiction: https://uint2048.github.io/depictions/mobileminibrowser-rootful/15/sileo.json
+
+Package: com.matthewbenedict.mobileminibrowser-15
+Version: 0.0.9-alpha
+Architecture: iphoneos-arm64
+Maintainer: UInt2048
+Depends: firmware (>=15.0), firmware (<<16.0)
+Conflicts: com.matthewbenedict.mobileminibrowser
+Replaces: com.matthewbenedict.mobileminibrowser
+Provides: com.matthewbenedict.mobileminibrowser (= 0.0.9-alpha)
+Filename: ./debs/com.matthewbenedict.mobileminibrowser-15_0.0.9-alpha_iphoneos-arm64.deb
+Size: 95766848
+MD5sum: 91cdf0e4fa44c756ce4777e309cf7b31
+SHA1: 35816e179852aa2973c834b0503d6d40cb9f4abd
+SHA256: 20e1e21667c9576812e9e1aa8f6abef3b286e0c5cac4587da2842200d03cc702
+Section: Tweaks
+Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
+Depiction: https://uint2048.github.io/depictions/mobileminibrowser-rootless/?p=15
+Icon: https://uint2048.github.io/CydiaIcon.png
+Name: CyberKit MobileMiniBrowser (iOS 15 Rootless)
+Sileodepiction: https://uint2048.github.io/depictions/mobileminibrowser-rootless/15/sileo.json
+
