@@ -8,7 +8,7 @@ https://haydarreiss31.github.io/HaydarReissRepo/
 
 ---
 
-## ♟️ Custom Respring Animation
+## ♟️ Checkra1n Respring Animation
 
 ![Respring Preview](logo.png)
 
