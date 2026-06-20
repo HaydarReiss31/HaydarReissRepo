@@ -35,8 +35,6 @@ Here is a look at the minimalist interface of CyberKit MiniBrowser running nativ
   <img src="CyberKitPreview2.png" width="45%" alt="CyberKit Profile View" />
 </p>
 
-> 💡 *Note: Make sure to change the image names in the `src=""` part above to match the exact filenames you uploaded to your repository.*
-
 ---
 
 ## ⚙️ Key Features & Technical Advantages
@@ -54,4 +52,4 @@ Here is a look at the minimalist interface of CyberKit MiniBrowser running nativ
 ### 1. Add the Repository
 Launch your preferred package manager (**Sileo, Zebra, Cydia, Installer**, etc.) and add the following source URL manually:
 ```text
-[https://haydarreiss31.github.io/](https://haydarreiss31.github.io/)
+https://haydarreiss31.github.io/HaydarReissRepo
