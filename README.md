@@ -13,7 +13,7 @@ https://haydarreiss31.github.io/HaydarReissRepo/
 <table border="0">
   <tr>
     <td width="40%" align="center" valign="top">
-      <img src="logo.jpg" alt="Respring Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+      <img src="logo.png" alt="Respring Preview" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
     </td>
     <td width="60%" valign="top" style="padding-left: 20px;">
       <h3>🛠️ Installation Guide</h3>
