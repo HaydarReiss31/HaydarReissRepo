@@ -50,6 +50,15 @@ Here is a look at the minimalist interface of CyberKit MiniBrowser running nativ
 ## 🛠️ How to Install & Use
 
 ### 1. Add the Repository
-Launch your preferred package manager (**Sileo, Zebra, Cydia, Installer**, etc.) and add the following source URL manually:
-```text
-https://haydarreiss31.github.io/HaydarReissRepo
+Launch your preferred package manager (**Sileo, Zebra, Cydia, Installer**, etc.) and use the primary repository link provided at the top of this page to add the source manually.
+
+### 2. Installation Steps
+1. Open your package manager and navigate to the search tab.
+2. Search for **CyberKit MiniBrowser**.
+3. Tap **Install** or **Get** to queue the package.
+4. Confirm the installation and wait for it to finish.
+5. Perform a **Respring** to apply changes and refresh your SpringBoard.
+
+### 3. Usage Guidelines
+* Tap the **CyberKit** icon directly from your home screen.
+* Enter any valid URL or search query into the streamlined address bar at the top, and tap **Go** or press enter to browse instantly!
