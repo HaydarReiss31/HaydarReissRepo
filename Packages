@@ -262,7 +262,7 @@ MD5sum: 3a9761304214ed789e2f0f3669b3c8e3
 SHA1: 77db00b86f20b118613efb385e39f437a062f61b
 SHA256: bf9cee6aaf506ae065edd37a2f66ee87fba3b40c73970e7757cf4eab6e4e1fbe
 Section: Tweaks
-Description: 从主屏幕查看和管理应用数据
+Description: Manage and clear appdata
 Author: Fouad Raheb
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
@@ -279,7 +279,7 @@ MD5sum: 0475e34bef87b83194c5d5050fa1d982
 SHA1: e53662e5067d69e24e65b27e164700fe635f5dc4
 SHA256: a893ca7c5789bd5423096acbfcaee710e77e834f5f3b0e8d788fcf463952c814
 Section: Tweaks
-Description: 从主屏幕查看和管理应用数据
+Description: Manage and clear appdata
 Author: Fouad Raheb
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
@@ -296,7 +296,7 @@ MD5sum: b49e66eff6029008fb74a48146e47626
 SHA1: 2ffaf6edaac4f63a6c321ba0bac8458adcc3cff4
 SHA256: c786d35053d2002528c94ca00187f4e53a6b76bb8ece976ff34191022a2c653e
 Section: Tweaks
-Description: 从主屏幕查看和管理应用数据
+Description: Manage and clear appdata
 Author: Fouad Raheb
 Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
 Name: AppData
