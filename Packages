@@ -477,7 +477,7 @@ Size: 376848
 MD5sum: e6894a47bdd2da959f88d828304dba81
 SHA1: 948eb87b94327aafdad81a896d19c985ad9b0109
 SHA256: fac66036d0634d7c313d298ded0a26840ca3a791335d930840c2877d1dcdedf4
-Section: Netskao-Tweaks
+Section: Terminal Tools
 Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Author: Netskao
 Name: DumpDecrypter
@@ -494,7 +494,7 @@ Size: 375976
 MD5sum: 0b09712a9941b6e09d055a30ead137ab
 SHA1: 596b87a448a7d54d985a61fec41541ff01739002
 SHA256: 5e46149013848061f41c4786328a9b2a11b84dd0a8cff3ab5238c9473f8d0fe3
-Section: Netskao-Tweaks
+Section: Terminal Tools
 Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Author: Netskao
 Name: DumpDecrypter
