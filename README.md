@@ -10,7 +10,7 @@ https://haydarreiss31.github.io/HaydarReissRepo/
 
 ## ♟️ Checkra1n Respring Animation
 
-![Respring Preview](logo.png)
+![Respring Preview](icons/logo.png)
 
 ### 🛠️ Installation Guide
 
@@ -30,9 +30,9 @@ CyberKit is a high-performance, fast, and minimalist mini-browser engineered spe
 Here is a look at the minimalist interface of CyberKit MiniBrowser running natively on iOS:
 
 <p align="center">
-  <img src="CyberKitPreview.png" width="45%" alt="CyberKit Search UI" />
+  <img src="icons/CyberKitPreview.png" width="45%" alt="CyberKit Search UI" />
   &nbsp;&nbsp;
-  <img src="CyberKitPreview2.png" width="45%" alt="CyberKit Profile View" />
+  <img src="icons/CyberKitPreview2.png" width="45%" alt="CyberKit Profile View" />
 </p>
 
 ---
