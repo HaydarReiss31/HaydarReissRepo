@@ -332,6 +332,7 @@ SHA1: 03edb466d0538097d17d3839546517eef2d09c6a
 SHA256: dda601c31d31a87d8becb02689a949677429f07502695555d293fcf078f90893
 Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 Author: khanhduytran0
 Name: TrollPad
 
@@ -348,10 +349,9 @@ SHA1: debaab091d0768f8d8988e128351584b0927bf41
 SHA256: 1bcad3e5515e0956369b5615ffe9271c6d21f234b5129506ff7c7bce07d8be83
 Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 Author: khanhduytran0
-Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 Name: TrollPad
-Sileodepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
 Package: com.kdt.trollpad
 Version: 1.2.3
@@ -366,10 +366,9 @@ SHA1: d4b5df8c1fed3b4d65d1013937c6dcfdb76865ab
 SHA256: d888bb0a11de3c8fc879f766f6d97523bfb351a5ab5f9c6290c624d79393e8ff
 Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 Author: khanhduytran0
-Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 Name: TrollPad
-Sileodepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
 Package: com.matthewbenedict.mobileminibrowser+12
 Version: 0.0.9-alpha
