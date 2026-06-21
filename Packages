@@ -9,7 +9,7 @@ SHA1: e449ebeede0cb7272956a90ac40fe73730b3036f
 SHA256: d3052c006738b3e6684065ef9058125f7e4c194b3514ef07ad2137b615502bf3
 Section: Themes
 Description: Checkra1n respring rootless
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/TweakIcon.png
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TweakIcon.png
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
 
@@ -71,7 +71,7 @@ SHA1: 7ca9b88fc3e10c0481879a9eaaab1de7d28f1dc3
 SHA256: 64c091387deabbf990b1ce1b55eb46d8f38ad80070b516a4e96041afac1e85a7
 Section: Tweaks
 Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/CyberKitIcon.png
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/CyberKitIcon.png
 Name: CyberKit MobileMiniBrowser (iOS 12)
 
 Package: com.matthewbenedict.mobileminibrowser+13
@@ -89,7 +89,7 @@ SHA1: fd5c8bc47b61f47d262a548c5ce2c0a04f4ac7b9
 SHA256: e5f8ebc5dafbfe096e602fe4c563fea2a6564a1348cdc0900a761c71b9a4a107
 Section: Tweaks
 Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/CyberKitIcon.png
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/CyberKitIcon.png
 Name: CyberKit MobileMiniBrowser (iOS 13)
 
 Package: com.matthewbenedict.mobileminibrowser+15
@@ -107,7 +107,7 @@ SHA1: 770236551c064365e86d974d8e25b4d672d48ffa
 SHA256: d0e0e480fe664b2ba42d773f14d710d1c3f5aac2f2de23b8f64a9be42d12e2df
 Section: Tweaks
 Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/CyberKitIcon.png
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/CyberKitIcon.png
 Name: CyberKit MobileMiniBrowser (iOS 15 Rootful)
 
 Package: com.matthewbenedict.mobileminibrowser-15
@@ -125,7 +125,7 @@ SHA1: 35816e179852aa2973c834b0503d6d40cb9f4abd
 SHA256: 20e1e21667c9576812e9e1aa8f6abef3b286e0c5cac4587da2842200d03cc702
 Section: Tweaks
 Description: CyberKit MobileMiniBrowser allows you to test the CyberKit backport of newer CyberKit in a minimal browser.
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/CyberKitIcon.png
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/CyberKitIcon.png
 Name: CyberKit MobileMiniBrowser (iOS 15 Rootless)
 
 Package: codes.aurora.kayoko
