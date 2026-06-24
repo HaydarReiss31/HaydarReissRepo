@@ -1,32 +1,33 @@
-Package: com.haydareiss.checkra1n
+Package: com.haydareiss.checkmate
 Version: 1.0.0
 Architecture: iphoneos-arm64
-Maintainer: HaydarReiss31
+Maintainer: HaydarReiss
 Filename: ./debs/Checkra1nRespringThemeRootless.deb
-Size: 11328
-MD5sum: c2046a0d9252bef40df93f1b29d5e0d9
-SHA1: e449ebeede0cb7272956a90ac40fe73730b3036f
-SHA256: d3052c006738b3e6684065ef9058125f7e4c194b3514ef07ad2137b615502bf3
+Size: 11336
+MD5sum: 9bb2aa7ea2b7f121d444dcfe0fe748be
+SHA1: bfcc60b9038e8c2701814adb6fab8354e3306220
+SHA256: c7717c4428d2c2852ad83fb7537cacaeda622f778465e86ca2165cc935d3820e
 Section: Themes
-Description: Checkra1n respring theme rootless
+Description: Checkra1n respring
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Checkra1nRespring.png
 
-Package: com.haydareiss.checkra1n
+Package: com.haydareiss.checkmate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: HaydarReiss31
-Filename: ./debs/Checkra1nRespringThemeRootful.deb
-Size: 11312
-MD5sum: aec24c2896e467f21ddebb62f8c10dcd
-SHA1: 1d2bf74e53238d237713e08de6c3785996476c00
-SHA256: 3cfcfe36124f053a5a1b891c69f00fed8ef0948f03d35cb8cd13bb76d00a06f3
+Maintainer: HaydarReiss
+Filename: ./debs/Checkra1nRespringRootful.deb
+Size: 11268
+MD5sum: 6f9b6014a986df6f103d23f08bb60c53
+SHA1: cc4c3dbda62e2ebf25ef95e6bc4b772f1f290c3a
+SHA256: ea19ea10a73ee9e0b004876c8e4d7eb1b79d3622c98cb956209849c12e585849
 Section: Themes
-Description: Checkra1n respring theme rootful
+Description: Rootful uyumlu Checkra1n respring animasyonu.
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Checkra1nRespring.png
+
 
 Package: com.haydarreiss.snake
 Version: 1.0.0
@@ -38,9 +39,8 @@ Size: 1788
 MD5sum: a0c42199b20fa3320a3fca815891cfa8
 SHA1: 95a90acf17a16d51f9e86f0251e53087c2f1aba7
 SHA256: fb5b97d1e44017d57237d38030a11bc002b63aaf6720a640f6356965bbeb1189
-Section: Games
-Description: Snake Game Rootful type snake in terminal to play
-Name: Snake (Rootful)
+Description: Snake Game Rootful
+Name: Snake Python Script (Rootless)
 
 Package: com.haydarreiss.snake
 Version: 1.0.0
@@ -52,9 +52,8 @@ Size: 1816
 MD5sum: 07f8174ed3fb5832b27acef6a007bc8e
 SHA1: 538f9caf1ad518974154988fcbc67f254a5cc171
 SHA256: a106ba29b7f9695b25e8375229e1a158738c2fdc9929c7ca5956ca199066df50
-Section: Games
-Description: Snake game rootless type snake in terminal to play
-Name: Snake (Rootless)
+Description: Snake game rootless
+Name: Snake Python Script (Rootless)
 
 Package: com.kdt.trollpad
 Version: 1.0
@@ -91,6 +90,7 @@ Author: khanhduytran0
 Name: TrollPad
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 
+
 Package: com.kdt.trollpad
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -106,5 +106,6 @@ Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
 Name: TrollPad
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
+Icon: Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
+
 
