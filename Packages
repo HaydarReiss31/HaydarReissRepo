@@ -11,6 +11,7 @@ Section: Themes
 Description: Checkra1n respring theme rootless
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Checkra1nRespring.png
 
 Package: com.haydareiss.checkra1n
 Version: 1.0.0
@@ -25,6 +26,7 @@ Section: Themes
 Description: Checkra1n respring theme rootful
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Checkra1nRespring.png
 
 Package: com.haydarreiss.snake
 Version: 1.0.0
@@ -70,6 +72,7 @@ Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
 Name: TrollPad
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 
 Package: com.kdt.trollpad
 Version: 1.2.3
@@ -86,6 +89,7 @@ Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
 Name: TrollPad
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 
 Package: com.kdt.trollpad
 Version: 1.2.3
@@ -102,4 +106,5 @@ Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
 Name: TrollPad
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 
