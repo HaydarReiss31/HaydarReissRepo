@@ -41,7 +41,6 @@ SHA256: fb5b97d1e44017d57237d38030a11bc002b63aaf6720a640f6356965bbeb1189
 Section: Games
 Description: Snake Game Rootful type snake in terminal to play
 Name: Snake (Rootful)
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Snake.png
 
 Package: com.haydarreiss.snake
 Version: 1.0.0
@@ -56,7 +55,6 @@ SHA256: a106ba29b7f9695b25e8375229e1a158738c2fdc9929c7ca5956ca199066df50
 Section: Games
 Description: Snake game rootless type snake in terminal to play
 Name: Snake (Rootless)
-Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Snake.png
 
 Package: com.kdt.trollpad
 Version: 1.0
