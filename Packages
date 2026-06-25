@@ -125,3 +125,53 @@ Author: rooot
 Icon: https://raw.githubusercontent.com/RoootTheFox/geode-inject-ios/meow/misc/icon.png
 Name: Geode Inject
 
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: 0xkuj
+Installed-Size: 472
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.3dappversionspoofer_2.0_iphoneos-arm.deb
+Size: 60280
+MD5sum: 4cf5925dc4d4e38e4519d06a5e372735
+SHA1: 4cf2884d0621bce7ce3b24a89dca267ff21f1407
+SHA256: d5f87e63779c5b7fb415d16e472bd056ef87a7759efd8e0377cdc4654418f721
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/3DAppVersionSpoofer.png
+
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 472
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.3dappversionspoofer_2.0_iphoneos-arm64.deb
+Size: 60382
+MD5sum: ea75414c4c0eda54b0f4cf2c96f069ae
+SHA1: f6e771b3f72eb50165823a1c26b756a9f08b0cf3
+SHA256: 0122b0ec239ece8857bd151c8b62d92e6f18476c7072b9aed4ec6abd3dc7c214
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/3DAppVersionSpoofer.png
+
+Package: com.0xkuj.3dappversionspoofer
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: 0xkuj
+Installed-Size: 440
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.3dappversionspoofer_2.0_iphoneos-arm64e.deb
+Size: 58028
+MD5sum: 9c3b29831943d98d29bd0f1b3fdff7b6
+SHA1: 1d1666c6e05862098e8c57b19df926549679ff35
+SHA256: 5ae33950bff620b8480093b4ea3a2bbe2febb92a193357abac8eb571c19049d3
+Section: Tweaks
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/3DAppVersionSpoofer.png
