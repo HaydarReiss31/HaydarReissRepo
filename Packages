@@ -10,7 +10,7 @@ SHA256: c7717c4428d2c2852ad83fb7537cacaeda622f778465e86ca2165cc935d3820e
 Section: Themes
 Description: Checkra1n respring
 Author: HaydarReiss31
-Name: Checkra1n Respring Theme
+Name: Checkra1n Respring Theme rootless
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Checkra1nRespring.png
 
 Package: com.haydareiss.checkmate
@@ -23,11 +23,10 @@ MD5sum: 6f9b6014a986df6f103d23f08bb60c53
 SHA1: cc4c3dbda62e2ebf25ef95e6bc4b772f1f290c3a
 SHA256: ea19ea10a73ee9e0b004876c8e4d7eb1b79d3622c98cb956209849c12e585849
 Section: Themes
-Description: Rootful uyumlu Checkra1n respring animasyonu.
+Description: Checkra1n respring theme rootful
 Author: HaydarReiss31
 Name: Checkra1n Respring Theme
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/Checkra1nRespring.png
-
 
 Package: com.haydarreiss.snake
 Version: 1.0.0
@@ -39,7 +38,6 @@ Size: 1788
 MD5sum: a0c42199b20fa3320a3fca815891cfa8
 SHA1: 95a90acf17a16d51f9e86f0251e53087c2f1aba7
 SHA256: fb5b97d1e44017d57237d38030a11bc002b63aaf6720a640f6356965bbeb1189
-Section: Games
 Description: Snake Game Rootful type snake in terminal to play
 Name: Snake (Rootful)
 
@@ -53,7 +51,6 @@ Size: 1816
 MD5sum: 07f8174ed3fb5832b27acef6a007bc8e
 SHA1: 538f9caf1ad518974154988fcbc67f254a5cc171
 SHA256: a106ba29b7f9695b25e8375229e1a158738c2fdc9929c7ca5956ca199066df50
-Section: Games
 Description: Snake game rootless type snake in terminal to play
 Name: Snake (Rootless)
 
@@ -92,7 +89,6 @@ Author: khanhduytran0
 Name: TrollPad
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 
-
 Package: com.kdt.trollpad
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -108,6 +104,22 @@ Section: Tweaks
 Description: Troll SpringBoard into thinking it's running on iPadOS.
 Author: khanhduytran0
 Name: TrollPad
-Icon: Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/TrollPadIcon.png
 
+Package: gay.rooot.geodeinject
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: rooot
+Installed-Size: 196
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/gay.rooot.geodeinject_0.0.6_iphoneos-arm64.deb
+Size: 16572
+MD5sum: 98342fd9b249c2f834306a542c946f63
+SHA1: 617f296baf7de9bbb280f5ca39f1bb7ba2971e35
+SHA256: 67350257f36df2e2c4e1a9b648fe7ca9ffa69b30c16f03f2e91eea02aaf163f0
+Section: Tweaks
+Description: Injects Geode into Geometry Dash.
+Author: rooot
+Icon: https://raw.githubusercontent.com/RoootTheFox/geode-inject-ios/meow/misc/icon.png
+Name: Geode Inject
 
