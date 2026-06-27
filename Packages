@@ -175,3 +175,22 @@ Description: A tweak to add app spoofing capabilities right from your 3D menu an
 Author: 0xkuj
 Name: 3DAppVersionSpoofer
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/3DAppVersionSpoofer.png
+
+Package: com.dth.dynamicnotch
+Version: 1.1.12+rootless
+Architecture: iphoneos-arm64
+Maintainer: HieuDuongIT
+Installed-Size: 1612
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
+Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
+Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
+Filename: ./debs/com.dth.dynamicnotch_1.1.12+rootless_iphoneos-arm64.deb
+Size: 303672
+MD5sum: d32ad860267abcc956a41e57262f5057
+SHA1: 6db1e44859f21be23ec8aeec3482a482b9207061
+SHA256: a4cf95e7f6ed1afdefb679362e3c95f137b6f4811fdf2479747fa58d88df24e8
+Section: Tweaks
+Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.12 thêm notch DND
+Author: HieuDuongIT
+Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
+Name: DynamicNotch
