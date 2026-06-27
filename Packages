@@ -193,3 +193,4 @@ Section: Tweaks
 Description: Dynamic Island for devices with a notch, version 1.1.12 adds the DND notch
 Author: HieuDuongIT
 Name: DynamicNotch
+Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/DynamicNotch.png
