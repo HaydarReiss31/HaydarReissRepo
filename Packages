@@ -185,12 +185,12 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 14.0)
 Breaks: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Replaces: com.dth.dynamicnotch-roothide, com.dth.dynamicnotch-rootless
 Filename: ./debs/com.dth.dynamicnotch_1.1.12+rootless_iphoneos-arm64.deb
-Size: 303672
-MD5sum: d32ad860267abcc956a41e57262f5057
-SHA1: 6db1e44859f21be23ec8aeec3482a482b9207061
-SHA256: a4cf95e7f6ed1afdefb679362e3c95f137b6f4811fdf2479747fa58d88df24e8
+Size: 303856
+MD5sum: bc1a7103e1799eefcc6edbdafb013851
+SHA1: 965517e9b88955788327ed04e69293640a943ce4
+SHA256: 8913be5e4a61b6642ead10f5cbfd66acdf0bac7c9e4eac542e6936268d6b1f2e
 Section: Tweaks
-Description: Dynamic Island for devices with a notch, version 1.1.12 adds the DND notch
+Description: Dynamic Island for devices with a notch, version 1.1.12 adds DND notch
 Author: HieuDuongIT
 Name: DynamicNotch
 Icon: https://haydarreiss31.github.io/HaydarReissRepo/icons/DynamicNotch.png
