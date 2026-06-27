@@ -190,7 +190,6 @@ MD5sum: d32ad860267abcc956a41e57262f5057
 SHA1: 6db1e44859f21be23ec8aeec3482a482b9207061
 SHA256: a4cf95e7f6ed1afdefb679362e3c95f137b6f4811fdf2479747fa58d88df24e8
 Section: Tweaks
-Description: Dynamic Island cho các thiết bị tai thỏ. bản 1.1.12 thêm notch DND
+Description: Dynamic Island for devices with a notch, version 1.1.12 adds the DND notch
 Author: HieuDuongIT
-Depiction: https://hieuduongt.github.io/repo/dynamicnotch.json
 Name: DynamicNotch
